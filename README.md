@@ -7,3 +7,7 @@
 - init / add / commit
 - 分支与合并
 - push / pull
+
+## 记录
+
+第一段文字是在 feature-intro 分支上改的。
